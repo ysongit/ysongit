@@ -21,7 +21,7 @@ Here's a selection of projects I've built or significantly contributed to.
     * Built the frontent with React and chakra-ui
     * Built the smart contract with Solidity and added ERC6551.
 
-### **Pecunia: [Github]([https://github.com/electrone901/Meow-lightlink](https://github.com/Pecunia-Labs/Pecunia-Website))**
+### **Pecunia: [Github](https://github.com/Pecunia-Labs/Pecunia-Website)**
 * **Description:** Secure estate planning using ZK snarks and dynamic NFTs
 * **My Role:** Frontend Developer
 * **Technologies Used:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
